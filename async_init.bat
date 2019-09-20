@@ -1,0 +1,1 @@
+git remote add tushare https://github.com/waditu/tushare.git
